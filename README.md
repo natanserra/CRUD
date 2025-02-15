@@ -41,9 +41,9 @@ Depois de rodar, você vai ver um menu assim:
 
 ## 📁 Arquivos do Projeto
 
-├── alunos_crud.py  (código principal)
+├── alunos_crud.py 
 
-├── alunos.json     (onde ficam os dados)
+├── menus.py     
 
-└── README.md       (você está aqui!)
+└── README.md     
 
